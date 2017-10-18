@@ -31,7 +31,7 @@ User will need to
 * (5) seedNum: random number seed number (default is 42)
 * (6) functionalImpactScoreCDS: name of functional impact scoring scheme for CDS (current supports "FunSeq2" or "MCAP")
 * (7) functionalImpactScoreNonCoding: name of functional impact scoring scheme for non-coding (current supports "FunSeq2" )
-* (8) reSampleIter: sampling iterations (suggesting number is 1000000 iterations)
+* (8) reSampleIter: sampling iterations (default value is 100000 iterations)
 * (9) useCores: number of cores for parellel computation 
 
 ```sh
